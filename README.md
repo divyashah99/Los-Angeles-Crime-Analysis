@@ -1,7 +1,5 @@
 # Los-Angeles-Crime-Analysis
 
-# Crime Data Analysis Project Readme
-
 ## Objective:
 In this project, the goal is to analyze a real-world dataset containing crime data from 2020 to the present. The primary objectives include cleaning and preparing the dataset for analysis, performing exploratory data analysis (EDA), and addressing specific questions related to crime trends, patterns, and factors influencing crime rates.
 
