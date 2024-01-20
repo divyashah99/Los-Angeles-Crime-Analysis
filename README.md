@@ -1,15 +1,17 @@
 # Los-Angeles-Crime-Analysis
 
+# Crime Data Analysis Project Readme
+
 ## Objective:
 In this project, the goal is to analyze a real-world dataset containing crime data from 2020 to the present. The primary objectives include cleaning and preparing the dataset for analysis, performing exploratory data analysis (EDA), and addressing specific questions related to crime trends, patterns, and factors influencing crime rates.
 
 ## Dataset:
-The crime dataset for this project is available at Crime Data from 2020 to Present.
+The crime dataset for this project is available on [Data.gov](https://catalog.data.gov/dataset/crime-data-from-2020-to-present).
 
 ## Tasks:
 
 ### 1. Data Acquisition:
-- Download the dataset from the provided link and load it into your preferred data analysis tool.
+- Download the dataset from the provided [Data.gov link](https://catalog.data.gov/dataset/crime-data-from-2020-to-present) and load it into your preferred data analysis tool.
 
 ### 2. Data Inspection:
 - Display the first few rows of the dataset.
@@ -36,7 +38,7 @@ The crime dataset for this project is available at Crime Data from 2020 to Prese
 ### 5. Advanced Analysis:
 - Use predictive modeling techniques (e.g., time series forecasting) to predict future crime trends.
 - Explore additional questions or hypotheses related to the dataset.
-- 
+
 ## Questions to Solve:
 1. **Overall Crime Trends:**
    - Calculate and plot the total number of crimes per year to visualize the trends.
